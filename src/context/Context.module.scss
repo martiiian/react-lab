@@ -1,0 +1,6 @@
+.root {
+  .MuiTextField-root {
+    margin: 8px; // если theme.spacing(1) = 8px (значение по умолчанию в MUI)
+    width: 25ch;
+  }
+}

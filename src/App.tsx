@@ -1,9 +1,5 @@
-import { StickyPlayground } from '@/sticky/StickyPlayground.tsx'
+import ContextExample from '@/context/ContextExample.tsx'
 
 export const App = () => {
-  return (
-    <div>
-      <StickyPlayground />
-    </div>
-  )
+  return <ContextExample />
 }
